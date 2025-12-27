@@ -1,6 +1,6 @@
 # First Year C Programming Projects
 
-This repository contains basic **C** programming exercises developed as part of my first-year engineering coursework. These projects demonstrate my foundational knowledge of core programming concepts such as arrays, pointers, functions, and conditional logic.
+This repository contains basic **C** programming exercises developed as part of my first-year engineering coursework. These projects demonstrate my foundational knowledge of core programming concepts such as arrays, functions, conditional logic, and matrix operations.
 
 ---
 
@@ -12,18 +12,17 @@ This program accepts marks for five subjects, calculates the total percentage, a
 
 *   **Objective:** To demonstrate the use of conditional `if-else if-else` and `switch` statements to implement a robust grading system.
 
-### 2. Data Sorting & Searching Utility
+### 2. Data Searching Utility (Linear Search)
 
-This project includes two separate programs that utilize fundamental algorithms to manage data efficiently within an array.
+This project includes a program that utilizes a fundamental algorithm to manage data efficiently within an array.
 
-*   **Bubble Sort:** Implemented to sort elements of an array in ascending order.
 *   **Linear Search:** Implemented to search for a specific element within the array.
 
-### 3. Pointer Application - Swapping
+### 3. Matrix Diagonal Sum Calculator
 
-This is a simple program that uses the concept of pointers to swap the values of two variables.
+This program calculates the sum of the diagonal elements of a user-defined `m x n` matrix.
 
-*   **Objective:** To illustrate how pointers are used to implement the 'call by reference' mechanism in C functions.
+*   **Objective:** To demonstrate comfort with two-dimensional arrays and iterative logic using nested loops.
 
 ---
 
@@ -32,10 +31,9 @@ This is a simple program that uses the concept of pointers to swap the values of
 *   **Language:** C
 *   **Concepts:**
     *   Control Structures (`if-else`, `switch`, `for/while loops`)
-    *   Arrays
+    *   Arrays (1D and 2D/Matrices)
     *   Functions
-    *   Pointers
-    *   Basic Algorithms (Sorting & Searching)
+    *   Basic Algorithms (Searching)
 
 ---
 
